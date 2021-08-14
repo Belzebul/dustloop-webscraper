@@ -35,22 +35,6 @@ class HTMLFramedataCollector:
         return self.thead_list[index]
 
 
-    def get_tbody_normals(self) -> PageElement:
-        return self.tbody_list[self.NORMALS]
-
-
-    def get_tbody_specials(self)  -> PageElement:
-        return self.tbody_list[self.SPECIALS]
-
-
-    def get_tbody_supers(self)  -> PageElement:
-        return self.tbody_list[self.SUPERS]
-
-
-    def get_tbody_others(self)  -> PageElement:
-        return self.tbody_list[self.OTHERS]
-
-
 class RequestException(Exception):
     """invalid url"""
 
