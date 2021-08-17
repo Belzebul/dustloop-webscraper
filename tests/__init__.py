@@ -1,1 +1,1 @@
-from .html_data_collector_test import HTMLDataCollectorTest
+from .html_character_collector_test import HTMLCharacterCollectorTest

@@ -1,0 +1,251 @@
+<tbody>
+ <tr data-details='&lt;table border="0" cellspacing="0"&gt;&lt;tbody&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;images: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;&lt;div class="thumb tright"&gt;&lt;div class="thumbinner" style="width:182px;"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Zarameyuki.png" class="image"&gt;&lt;img alt="" src="/wiki/images/thumb/6/65/GGST_Nagoriyuki_Zarameyuki.png/180px-GGST_Nagoriyuki_Zarameyuki.png" decoding="async" width="180" height="63" class="thumbimage" srcset="/wiki/images/thumb/6/65/GGST_Nagoriyuki_Zarameyuki.png/270px-GGST_Nagoriyuki_Zarameyuki.png 1.5x, /wiki/images/thumb/6/65/GGST_Nagoriyuki_Zarameyuki.png/360px-GGST_Nagoriyuki_Zarameyuki.png 2x" /&gt;&lt;/a&gt;  &lt;div class="thumbcaption"&gt;&lt;div class="magnify"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Zarameyuki.png" class="internal" title="Enlarge"&gt;&lt;/a&gt;&lt;/div&gt;GGST Nagoriyuki Zarameyuki.png&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;notes: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;Increases Blood Gauge over 3s (+90/300) &lt;span class="CargoDelimiter"&gt;&amp;bull;&lt;/span&gt;  CH recovery&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;'>
+  <td class="details-control">
+  </td>
+  <td>
+   236S
+  </td>
+  <td>
+   Zarameyuki
+  </td>
+  <td>
+   45
+  </td>
+  <td>
+   Mid
+  </td>
+  <td>
+   23
+  </td>
+  <td>
+   26
+  </td>
+  <td>
+   Total 44
+  </td>
+  <td>
+   +5
+  </td>
+  <td>
+   +8
+  </td>
+  <td>
+   5
+  </td>
+  <td>
+   2
+  </td>
+  <td>
+  </td>
+  <td>
+   80%
+  </td>
+ </tr>
+ <tr data-details='&lt;table border="0" cellspacing="0"&gt;&lt;tbody&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;images: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;&lt;div class="thumb tright"&gt;&lt;div class="thumbinner" style="width:182px;"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Fukyo.png" class="image"&gt;&lt;img alt="" src="/wiki/images/thumb/7/7b/GGST_Nagoriyuki_Fukyo.png/180px-GGST_Nagoriyuki_Fukyo.png" decoding="async" width="180" height="159" class="thumbimage" srcset="/wiki/images/thumb/7/7b/GGST_Nagoriyuki_Fukyo.png/270px-GGST_Nagoriyuki_Fukyo.png 1.5x, /wiki/images/thumb/7/7b/GGST_Nagoriyuki_Fukyo.png/360px-GGST_Nagoriyuki_Fukyo.png 2x" /&gt;&lt;/a&gt;  &lt;div class="thumbcaption"&gt;&lt;div class="magnify"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Fukyo.png" class="internal" title="Enlarge"&gt;&lt;/a&gt;&lt;/div&gt;GGST Nagoriyuki Fukyo.png&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;notes: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;Increases Blood Gauge over 3s (+43.2/300)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;'>
+  <td class="details-control">
+  </td>
+  <td>
+   236K
+  </td>
+  <td>
+   Fukyo
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   1
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   Total 25
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   1~25F Above Chest
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr data-details='&lt;table border="0" cellspacing="0"&gt;&lt;tbody&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;images: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;&lt;div class="thumb tright"&gt;&lt;div class="thumbinner" style="width:182px;"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Fukyo.png" class="image"&gt;&lt;img alt="" src="/wiki/images/thumb/7/7b/GGST_Nagoriyuki_Fukyo.png/180px-GGST_Nagoriyuki_Fukyo.png" decoding="async" width="180" height="159" class="thumbimage" srcset="/wiki/images/thumb/7/7b/GGST_Nagoriyuki_Fukyo.png/270px-GGST_Nagoriyuki_Fukyo.png 1.5x, /wiki/images/thumb/7/7b/GGST_Nagoriyuki_Fukyo.png/360px-GGST_Nagoriyuki_Fukyo.png 2x" /&gt;&lt;/a&gt;  &lt;div class="thumbcaption"&gt;&lt;div class="magnify"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Fukyo.png" class="internal" title="Enlarge"&gt;&lt;/a&gt;&lt;/div&gt;GGST Nagoriyuki Fukyo.png&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;notes: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;Increases Blood Gauge over 3s (+43.2/300)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;'>
+  <td class="details-control">
+  </td>
+  <td>
+   214K
+  </td>
+  <td>
+   Fukyo
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   1
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   Total 16
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   1~16F Above Chest
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr data-details='&lt;table border="0" cellspacing="0"&gt;&lt;tbody&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;images: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;&lt;div class="thumb tright"&gt;&lt;div class="thumbinner" style="width:182px;"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Kamuriyuki.png" class="image"&gt;&lt;img alt="" src="/wiki/images/thumb/1/1a/GGST_Nagoriyuki_Kamuriyuki.png/180px-GGST_Nagoriyuki_Kamuriyuki.png" decoding="async" width="180" height="136" class="thumbimage" srcset="/wiki/images/thumb/1/1a/GGST_Nagoriyuki_Kamuriyuki.png/270px-GGST_Nagoriyuki_Kamuriyuki.png 1.5x, /wiki/images/thumb/1/1a/GGST_Nagoriyuki_Kamuriyuki.png/360px-GGST_Nagoriyuki_Kamuriyuki.png 2x" /&gt;&lt;/a&gt;  &lt;div class="thumbcaption"&gt;&lt;div class="magnify"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Kamuriyuki.png" class="internal" title="Enlarge"&gt;&lt;/a&gt;&lt;/div&gt;GGST Nagoriyuki Kamuriyuki.png&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;notes: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;Increases Blood Gauge over 3s (+90/300) &lt;span class="CargoDelimiter"&gt;&amp;bull;&lt;/span&gt;  Airborne 5~12F&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;'>
+  <td class="details-control">
+  </td>
+  <td>
+   214H
+  </td>
+  <td>
+   Kamuriyuki
+  </td>
+  <td>
+   50
+  </td>
+  <td>
+   Mid
+  </td>
+  <td>
+   14
+  </td>
+  <td>
+   5
+  </td>
+  <td>
+   14
+  </td>
+  <td>
+   0
+  </td>
+  <td>
+   HKD
+  </td>
+  <td>
+   25
+  </td>
+  <td>
+   4
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr data-details='&lt;table border="0" cellspacing="0"&gt;&lt;tbody&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;images: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;&lt;div class="thumb tright"&gt;&lt;div class="thumbinner" style="width:182px;"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Shizuriyuki.png" class="image"&gt;&lt;img alt="" src="/wiki/images/thumb/f/f3/GGST_Nagoriyuki_Shizuriyuki.png/180px-GGST_Nagoriyuki_Shizuriyuki.png" decoding="async" width="180" height="146" class="thumbimage" srcset="/wiki/images/thumb/f/f3/GGST_Nagoriyuki_Shizuriyuki.png/270px-GGST_Nagoriyuki_Shizuriyuki.png 1.5x, /wiki/images/thumb/f/f3/GGST_Nagoriyuki_Shizuriyuki.png/360px-GGST_Nagoriyuki_Shizuriyuki.png 2x" /&gt;&lt;/a&gt;  &lt;div class="thumbcaption"&gt;&lt;div class="magnify"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Shizuriyuki.png" class="internal" title="Enlarge"&gt;&lt;/a&gt;&lt;/div&gt;GGST Nagoriyuki Shizuriyuki.png&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;notes: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;Increases Blood Gauge over 3s (+90/300)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;'>
+  <td class="details-control">
+  </td>
+  <td>
+   623H
+  </td>
+  <td>
+   Shizuriyuki
+  </td>
+  <td>
+   45,55
+  </td>
+  <td>
+   Mid
+  </td>
+  <td>
+   13
+  </td>
+  <td>
+   3(8)6
+  </td>
+  <td>
+   29(45 on whiff)
+  </td>
+  <td>
+   -16
+  </td>
+  <td>
+   HKD
+  </td>
+  <td>
+   10,12
+  </td>
+  <td>
+   3,4
+  </td>
+  <td>
+   1~15F Upper Body
+  </td>
+  <td>
+  </td>
+ </tr>
+ <tr data-details='&lt;table border="0" cellspacing="0"&gt;&lt;tbody&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;images: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;&lt;div class="thumb tright"&gt;&lt;div class="thumbinner" style="width:182px;"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Bloodsucking_Universe.png" class="image"&gt;&lt;img alt="" src="/wiki/images/thumb/b/ba/GGST_Nagoriyuki_Bloodsucking_Universe.png/180px-GGST_Nagoriyuki_Bloodsucking_Universe.png" decoding="async" width="180" height="170" class="thumbimage" srcset="/wiki/images/thumb/b/ba/GGST_Nagoriyuki_Bloodsucking_Universe.png/270px-GGST_Nagoriyuki_Bloodsucking_Universe.png 1.5x, /wiki/images/thumb/b/ba/GGST_Nagoriyuki_Bloodsucking_Universe.png/360px-GGST_Nagoriyuki_Bloodsucking_Universe.png 2x" /&gt;&lt;/a&gt;  &lt;div class="thumbcaption"&gt;&lt;div class="magnify"&gt;&lt;a href="/wiki/index.php?title=File:GGST_Nagoriyuki_Bloodsucking_Universe.png" class="internal" title="Enlarge"&gt;&lt;/a&gt;&lt;/div&gt;GGST Nagoriyuki Bloodsucking Universe.png&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;			&lt;tr&gt;				&lt;td&gt;&lt;strong&gt;notes: &lt;/strong&gt;&lt;/td&gt;				&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;'>
+  <td class="details-control">
+  </td>
+  <td>
+   623P
+  </td>
+  <td>
+   Bloodsucking Universe
+  </td>
+  <td>
+   80,90,100
+  </td>
+  <td>
+   Ground Throw
+  </td>
+  <td>
+   7
+  </td>
+  <td>
+   2
+  </td>
+  <td>
+   48
+  </td>
+  <td>
+   NA
+  </td>
+  <td>
+   HKD
+  </td>
+  <td>
+  </td>
+  <td>
+   N/A
+  </td>
+  <td>
+   1~8F Throw
+  </td>
+  <td>
+   50%
+  </td>
+ </tr>
+</tbody>
