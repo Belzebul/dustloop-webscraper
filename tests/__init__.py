@@ -1,1 +1,2 @@
-from .html_character_collector_test import HTMLCharacterCollectorTest
+from .test_html_character_collector import TestHTMLCharacterCollector
+from .test_character_dict_builder import TestCharacterDictBuilder

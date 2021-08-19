@@ -1,4 +1,3 @@
-from os import read
 from context import src
 import unittest
 import re
@@ -7,7 +6,7 @@ from bs4 import BeautifulSoup
 
 SPECIALS_COLUMNS = ['sprite', 'input', 'name', 'damage', 'guard', 'startup', 'active', 'recovery', 'onBlock', 'onHit', 'riscGain', 'level', 'invuln', 'prorate']
 
-class CharacterDictBuilderTest(unittest.TestCase):
+class TestCharacterDictBuilder(unittest.TestCase):
 
     html_doc = ''
 
@@ -25,8 +24,6 @@ class CharacterDictBuilderTest(unittest.TestCase):
         framedata_dict = src.character_dict_builder.build(self.html_body, SPECIALS_COLUMNS)
         special = framedata_dict['236S']
         self.assertEqual(special['name'], 'Zarameyuki')
-
-    
         
 
 if __name__ == '__main__':

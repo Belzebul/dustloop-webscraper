@@ -39,5 +39,8 @@ def html_row_to_dict(row, columns):
 def get_sprite_url(tr_tag):
     hidden_tag = BeautifulSoup(tr_tag['data-details'], 'html.parser')
     img_tag = hidden_tag.find('img')
+    if img_tag is None:
+        return ''
+    
     url = DUSTLOOP_DOMAIN + img_tag['src']
     return url

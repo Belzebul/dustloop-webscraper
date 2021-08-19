@@ -1,7 +1,7 @@
 from enum import IntEnum
 import json
-from . import character_dict_builder
-from .character_html_collector import CharacterHTMLCollector
+import character_dict_builder
+from character_html_collector import CharacterHTMLCollector
 
 class TableName(IntEnum):
     SYSTEM_DATA = 0
@@ -13,34 +13,27 @@ class TableName(IntEnum):
 
 class CharacterService():
 
-    def __init__(self, url_character):
+    def __init__(self, url_character, name):
         self.html_data = CharacterHTMLCollector(url_character)
+        self.name = name
         self.character = {}
 
 
     def build(self):
-        dict_list = self.mount_dicts()
-        moves = self.concat_dicts(dict_list)
-        
-        return {'nagoriyuki': moves} #hardcoded
+        moves_dict = self.mount_moves_dicts()
+        return {self.name: moves_dict}
 
 
-    def mount_dicts(self):
-        dict_moves = ['','','','','']
+    def mount_moves_dicts(self):
+        moves_dict = {}
 
         for table_id in TableName:
             columns_name = self.get_columns(table_id)
             html_tbody = self.html_data.get_tbody(table_id)
-            dict_moves[table_id] = character_dict_builder.build(html_tbody, columns_name)
+            moves = character_dict_builder.build(html_tbody, columns_name)
+            moves_dict.update(moves)
 
-        return dict_moves
-
-
-    def concat_dicts(self, dict_list):
-        dict_character = {}
-        for d in dict_list:
-            dict_character.update(d)
-        return dict_character
+        return moves_dict
 
 
     def get_columns(self, table_id):
