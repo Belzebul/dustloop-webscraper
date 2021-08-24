@@ -51,7 +51,7 @@ class CharacterService():
 
 
 if __name__ == '__main__':
-    character = CharacterService('https://www.dustloop.com/wiki/index.php?title=GGST/Nagoriyuki/Frame_Data')
+    character = CharacterService('https://www.dustloop.com/wiki/index.php?title=GGST/Nagoriyuki/Frame_Data','Nagoriyuki')
     char_dict = character.build()
 
     with open('nagoriyuki_example.json', 'w') as file:

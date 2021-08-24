@@ -16,13 +16,6 @@ def get_characters_url():
     return url_list
 
 
-def get_characters():
-    http_content: bytes = load_data(GGST_FRAMEDATE_URL).content
-    tag_a_list = find_tag_a_list(http_content)
-    name_list = mount_name_list(tag_a_list)
-
-    return name_list
-
 def load_data(URL):
         http_request = requests.get(URL)
         if( http_request.status_code != HTTP_OK):
@@ -48,14 +41,6 @@ def mount_url_list(framedata_a_list):
 
     return framedata_url_list
 
-
-def mount_name_list(framedata_a_list):
-    framedata_name_list = []
-    for a in framedata_name_list:
-        character_name = a['title']
-        framedata_name_list.append(character_name)
-
-    return framedata_name_list
 
 if __name__ == '__main__':
     print(get_characters_url())
